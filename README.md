@@ -115,8 +115,14 @@ _savvy record starts a new sub-shell and all commands in this shell are recorded
 
 ### [rewindtty](https://github.com/rewindtty/rewindtty)
 A terminal session recorder and replayer written in C that allows you to capture and replay terminal sessions with precise timing. 
+
+**rewindtty record and replay**
  
-<img src="https://www.rewindtty.dev/assets/record.gif" width="600"/>
+<img src="https://www.rewindtty.dev/assets/images/record.gif" width="600"/>
+
+**rewindtty analyze**
+
+<img src="https://www.rewindtty.dev/assets/images/analyze_command.png" width="600"/>
 
 ---
 
